@@ -34,7 +34,9 @@ Visualized replies, retweets, and likes for high-engagement tweets that were pos
 
 # Repository Structure
 Data:<a href> "https://github.com/Abhiram3152N/Twitter-Data-Analytics-PowerBi/blob/main/SocialMedia.csv" </a>
+
 Dashboard:<a href> "https://github.com/Abhiram3152N/Twitter-Data-Analytics-PowerBi/blob/main/Twitter%20Data%20Analytics.pbix" </a>
+
 Image:![WhatsApp Image 2025-04-24 at 23 38 50](https://github.com/user-attachments/assets/77937a84-c243-4072-93b5-1ced9a632b4b)
 
 
